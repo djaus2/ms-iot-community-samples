@@ -1,11 +1,18 @@
 ---
-layout: sample
-title: Blinky Sample
-permalink: /en-US/Samples/BlinkyMBM.htm
-lang: en-US
-deviceName: MBM
+Title: BlinkyMBM
+Version: 1.00
+Description: Postam cresham laude
+CodeLanguages:  C#,C++
+Targets: RPI, Arduino
+Language:  "en-us"
+GitHub: asd/dfg
+HacksterIO: 
+Codeplex: 
+Tags:a,c,b
+Developers: David
+Blog:  https://embedded101.com/Blogs/David-Jones
 ---
 
-{% include steps.html device=page.deviceName %}
-
-{% include_relative BlinkyContent.md %}
+#Title
+---
+post cresham laude
