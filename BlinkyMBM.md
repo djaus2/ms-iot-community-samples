@@ -5,7 +5,7 @@ Description: Postam cresham laude
 CodeLanguages:  C#,C++
 Targets: RPI, Arduino
 Language:  "en-us"
-GitHub: asd/dfg
+GitHub: https://githb.com/asd/dfg
 HacksterIO: 
 Codeplex: 
 Tags:a,c,b
