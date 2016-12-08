@@ -1,7 +1,8 @@
 # About
-An aggregatuion of of Windows 10 IoT GitHub projects as a set of md files for ms-iot Sample projects from Community. Each md points to a user's Sample project. Through project properties in the .MD files, projects so listed are searchable and sortable. Project .MD files that are reposited in this repository are integrated into the site: 
+An aggregatuion of of Windows 10 IoT GitHub projects as a set of md files for ms-iot Sample projects from Community. Each md points to a user's Sample project. Through project properties in the .MD files, projects so listed are searchable and sortable. Project .MD files that are reposited in the GitHub repository [djaus/ms-iot-community-samples](https://github.com/djaus2/ms-iot-community-samples) are integrated into the site: 
 
 http://sportronicsiot.azurewebsites.net/  [This will be moved to http://sportronics.com.au in due course.]
+Note code fo rthis site is also on GitHub at [djaus/ms-iot-community-samples-svc](https://github.com/djaus2/ms-iot-community-samples-svc)
 
 https://github.com/ms-iot/Samples projects only take contributions from appropriate MS staff, although they will take bug fixes from the community. This site is meant to mirror ms-iot/Samples for community contributions.
 
