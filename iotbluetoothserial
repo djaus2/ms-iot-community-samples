@@ -1,13 +1,9 @@
-#iotbluetoothserial
+
 #IoT Core Generic Bluetooth Serial Universal Windows App
 
-Updates:
-- Version 1.2 One bug fix (was writing send twice), one code improvement (menu returns DeviceInformation so no need to relookup).
+#About
 
-
-Project Description
-
-This project is discussed indetail on embedded101.com:
+This project is discussed indetail in embedded101.com:
 http://embedded101.com/Blogs/David-Jones/entryid/707/Win-10-Iot-Core-Bluetooth-Universal-Windows-Serial-App-
 
  Universal Win App that runs on Windows 10, including IoT Core (eg Raspberry PI2) that connects to an embedded, eg Arduino, device over Bluetooth Serial.
