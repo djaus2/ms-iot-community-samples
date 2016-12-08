@@ -4,7 +4,8 @@ Version: 1.0
 Description: A Universal Windows App that mimicks the *web portal* to a Windows 10 IoT device.
 CodeLanguages:  c#
 Targets: Windows 10 IoT, Windows 10 Desktop, Windows 10 Phone
-Language:  "en-us"GitHub: 
+Language:  "en-us"
+GitHub: https://github.com/djaus2/IoTSysInfo/
 HacksterIO: Codeplex: 
 Tags: IoT, Windows 10, Web Portal, Package Deployment
 Developers: David Jones
