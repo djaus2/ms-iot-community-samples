@@ -1,3 +1,16 @@
+---
+Title: IoTSysInfo
+Version: 1.0
+Description: A Universal Windows App that mimicks the *web portal* to a Windows 10 IoT device.
+CodeLanguages:  c#
+Targets: Windows 10 IoT, Windows 10 Desktop, Windows 10 Phone
+Language:  "en-us"GitHub: 
+HacksterIO: Codeplex: 
+Tags: IoT, Windows 10, Web Portal, Package Deployment
+Developers: David Jones
+Blog:  http://embedded101.com/Blogs/David-Jones
+---
+
 # IoTSysInfo
 
 A Universal Windows App that mimicks the *web portal* to a Windows 10 IoT device. 
