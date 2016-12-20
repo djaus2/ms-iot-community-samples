@@ -1,11 +1,4 @@
 ---
-title: NoPopUps
-description: A pattern for implementing PopUp message boxes as a grid element in IoT-Core UWP apps where PopUps aren't supported
-keyword: PopUp, UWP, MessageBox, Accept, Cancel, IoT-Core
-permalink: /en-US/Docs/NoPopUps.htm
-samplelink: https://github.com/ms-iot/djaus2NoPopUps/
-lang: en-US
----
 Title: NoPopUps
 Version: 1.0
 Description: This project demonstrates how to have a [Yes] [Cancel] Popup panel with a message with the app awaiting the user response and responding accordingly with Windows 10 IoT-Core. 
