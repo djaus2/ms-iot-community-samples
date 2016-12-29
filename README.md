@@ -9,6 +9,6 @@ https://github.com/ms-iot/Samples projects only take contributions from appropri
 # Contributions
 To publicise your GitHub Windows IoT project create a Markdown (.MD) project using the template Template.MD (as above). Set the filename to the same as the project name. Be sure to complete the database information at the top. Your project ReadMe file with the database info at top may be enough. When you add links to the database information, they must be full paths, not relative.
 
-You can either forward the .MD file to me via email or do a Pull Request with this repository. 
+You project MD file can be authoroed on this site or downloaded from your GitHub repository. In both case the database template is pre-pended at the top ofteh file. See the Contributions page.
 
 Markdown Cheat Sheet: https://gist.github.com/howar31/5963000
