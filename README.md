@@ -3,6 +3,8 @@ This site is a directory of Windows 10 IoT GitHub projects as a set of Markdown 
 
 <a href="http://www.sportronics.com.au/" target="_blank">Sportronics</a>
 
+[http://www.sportronics.com.au/](http://www.sportronics.com.au/){:target="_blank"}
+
 http://www.sportronics.com.au/ 
 Note code for this site is also on GitHub at [djaus/ms-iot-community-samples-svc](https://github.com/djaus2/ms-iot-community-samples-svc)
 
