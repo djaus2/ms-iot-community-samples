@@ -1,4 +1,4 @@
-*(PS: Open links below in a new window (right-ck on them)).*
+*(PS: Open links below in a new window (right-click on them)).*
 # About
 This site is a directory of Windows 10 IoT GitHub projects as a set of Markdown (.MD) files for Microosft IoT Sample projects from the IoT Community. Each md points to a user's Sample project. Through project properties in the .MD files, projects so listed are searchable and sortable. Project .MD files that are reposited in the GitHub repository [djaus/ms-iot-community-samples](https://github.com/djaus2/ms-iot-community-samples) are integrated into the site: 
 
